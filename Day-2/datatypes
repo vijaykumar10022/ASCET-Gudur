@@ -1,0 +1,16 @@
+Data types: int,float,double,char,long,short,unsigned
+sizes:
+		int --> 4bytes-->64 bit / 2bytes -->32 bit
+		float--> 4 bytes
+		char --> 1 byte
+		double -->8 bytes
+		long long int -->8 bytes
+Format specifires:
+		int -->%d,%i
+		char -->%c,%s
+		float -->%f
+		double -->%lf
+		long long int -->%lld
+		long long float -->%llf
+		hexadecimal --->%p
+		
