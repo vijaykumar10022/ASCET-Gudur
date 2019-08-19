@@ -1,4 +1,4 @@
-"./logicaloperators"   1 20
+"./bitwiseoperators"   1 20
 
 pause
 del "%0"
