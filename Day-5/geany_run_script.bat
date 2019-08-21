@@ -1,4 +1,4 @@
-"./arraytwodimensionwithcharacters"   1 20
+"./string"   1 20
 
 pause
 del "%0"
