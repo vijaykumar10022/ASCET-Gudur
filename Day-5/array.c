@@ -34,17 +34,18 @@ int main(){
 		//~ printf("%d\n",student[i]);
 	//~ }
 	//Dynamic mechanism
-	int size;
-	printf("Enter Array Size:");
-	scanf("%d",&size);//10
-	int student[size];//student[10]//40 bytes
-	int i;
-	printf("Enter Array Values:");
-	for(i=0;i<=size-1;i++){
-		scanf("%d",&student[i]);
-	}
-	for(i=0;i<=size-1;i++){
-		printf("location-->%d,index-->%d,Address-->%p,values-->%d\n",i+1,i,&student[i],student[i]);
-	}
+	//~ int size;
+	//~ printf("Enter Array Size:");
+	//~ scanf("%d",&size);//10
+	//~ int student[size];//student[10]//40 bytes
+	//~ int i;
+	//~ printf("Enter Array Values:");
+	//~ for(i=0;i<=size-1;i++){
+		//~ scanf("%d",&student[i]);
+	//~ }
+	//~ for(i=0;i<=size-1;i++){
+		//~ printf("location-->%d,index-->%d,Address-->%p,values-->%d\n",i+1,i,&student[i],student[i]);
+	//~ }
+	printf("%d",'A');
 	return 0;
 }

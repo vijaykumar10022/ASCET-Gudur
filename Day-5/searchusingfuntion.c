@@ -35,12 +35,12 @@ int main(){
 	printf("Enter Array Size:");
 	scanf("%d",&size);
 	int array[size];
-	read_array(size,array);
-	display_array(size,array);
+	read_array(size,array);//read
+	display_array(size,array);//display
 	int search;
 	printf("\nEnter Searching Element:");
 	scanf("%d",&search);
-	search_array(search,size,array);
+	search_array(search,size,array);//search
 	printf("\nEnter Searching Element:");
 	scanf("%d",&search);
 	search_array(search,size,array);
