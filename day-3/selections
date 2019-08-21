@@ -1,0 +1,18 @@
+Control statements:
+------  -----------
+-->selections 
+		-->if
+			syntax:
+				if(condtions){
+					statements;
+				}
+		-->if_else
+				syntax:
+					if(conditions){
+						statements;
+					}
+					else{
+						statements;
+					}
+		-->nested
+		-->switch

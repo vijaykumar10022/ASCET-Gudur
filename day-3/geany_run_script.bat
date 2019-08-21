@@ -1,4 +1,4 @@
-"./incrementlogic"   1 20
+"./swirchcase"   1 20
 
 pause
 del "%0"

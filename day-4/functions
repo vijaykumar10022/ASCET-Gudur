@@ -1,0 +1,23 @@
+Funtions:is a block of code to perform perticular task
+		ex add()-->10+20 -->30
+types of funtions:
+		-->user defined 
+					-->4 types based on arguments and return values
+						-->funtion with out arguments and with out return value
+						-->Funiton with out arguments and with return value
+						-->funtion with arguments and with out return value
+						-->funtion with arguments and with return value
+		-->pre defined
+				-->ex scanf(),printf(),pow(),strlen(),strcpy(),clrscr(),getc(),gets(),fscanf(),fprintf() ect..
+Funtion parts:
+			-->Funtion Declaration
+			-->Funtion Defination
+			-->Funtion calling
+uses:
+		-->Re useability
+		-->Error finding easy
+		-->Code length reduces
+			
+			
+			
+			
