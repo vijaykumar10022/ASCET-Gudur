@@ -1,4 +1,4 @@
-"./arrayminimumwithcommandline"  11 12 15 48 49 45
+"./strucure"  11 12 15 48 49 45
 
 pause
 del "%0"
